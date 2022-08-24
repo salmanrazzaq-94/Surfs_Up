@@ -1,10 +1,5 @@
 # Surf's Up: Oahu's new Surf n' Shake - Board & Ice Cream Shop 
-CU-VIRT-DATA-PT-02-2021-U-B-TTH - Advanced Data Storage and Retrieval with SQLAlchemy and Flask - Module 09
-
-Paul Do 2021/04/18
-
-![Me on a Beach](Resources/11390024_10152843880072117_2390196098379149836_n.png)
-
+Advanced Data Storage and Retrieval with SQLAlchemy and Flask - Module 09
 
 
 ## Overview
