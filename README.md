@@ -1,5 +1,5 @@
 # Surf's Up: Oahu's new Surf n' Shake - Board & Ice Cream Shop 
-Advanced Data Storage and Retrieval with SQLAlchemy and Flask - Module 09
+Advanced Data Storage and Retrieval with SQLAlchemy and Flask
 
 
 ## Overview
